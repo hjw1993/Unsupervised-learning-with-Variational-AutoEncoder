@@ -4,4 +4,4 @@ Generating examples from the data distribution using VAE,The visualized results 
 
 
 
-![image](http://github.com/hjw1993/image/raw/master/latent_space.png)
+![Image text](http://raw.github.com/hjw1993/image/master/latent_space.png)
