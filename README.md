@@ -4,4 +4,4 @@ Generating examples from the data distribution using VAE,The visualized results 
 
 
 
-![image](http://github.com/hjw1993/Unsupervised-learning-with-Variational-AutoEncoder/raw/master/VAE/latent_space.png)
+![Alt text](http://github.com/hjw1993/Unsupervised-learning-with-Variational-AutoEncoder/raw/master/VAE/latent_space.png)
